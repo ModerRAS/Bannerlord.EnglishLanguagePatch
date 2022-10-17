@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bannerlord.EnglishLanguagePatch", "Bannerlord.EnglishLanguagePatch\Bannerlord.EnglishLanguagePatch.csproj", "{53E01840-CD18-424A-BE89-44280C96C0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Beta_Debug|x64 = Beta_Debug|x64
+		Beta_Release|x64 = Beta_Release|x64
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Stable_Debug|x64 = Stable_Debug|x64
+		Stable_Release|x64 = Stable_Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Beta_Debug|x64.ActiveCfg = Beta_Debug|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Beta_Debug|x64.Build.0 = Beta_Debug|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Beta_Release|x64.ActiveCfg = Beta_Release|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Beta_Release|x64.Build.0 = Beta_Release|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Debug|x64.ActiveCfg = Debug|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Debug|x64.Build.0 = Debug|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Release|x64.ActiveCfg = Release|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Release|x64.Build.0 = Release|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Stable_Debug|x64.ActiveCfg = Stable_Debug|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Stable_Debug|x64.Build.0 = Stable_Debug|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Stable_Release|x64.ActiveCfg = Stable_Release|x64
+		{53E01840-CD18-424A-BE89-44280C96C0C9}.Stable_Release|x64.Build.0 = Stable_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39367009-687D-456C-AC3D-2991B3315A22}
+	EndGlobalSection
+EndGlobal
