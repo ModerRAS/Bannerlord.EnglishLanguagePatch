@@ -11,7 +11,7 @@
     <ModuleName>$(MSBuildProjectName)</ModuleName>
     <GameFolder>C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord</GameFolder>
     <!-- Module manually override GameVersion -->
-    <OverrideGameVersion>e1.8.0</OverrideGameVersion>
+    <OverrideGameVersion>e1.8.1</OverrideGameVersion>
   </PropertyGroup>
 
   <!-- Development Variables -->
